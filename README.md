@@ -1,5 +1,7 @@
 # endometriosis-symptom-classification
-
+<p align="center">
+  <img src="pipeline_structure.png" alt="Pipeline Structure" width="600">
+</p>
 # Impact of Domain Ontology on Endometriosis Symptom Classification
 
 This repository contains the data pipeline, feature engineering scripts, and machine learning evaluation code for our study:
